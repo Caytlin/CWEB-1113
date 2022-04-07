@@ -73,6 +73,7 @@
 					<td><?php echo $StudentPhone;?></td>
 				</tr>
 			</table>
+			<a href="index.php" type="button" class="btn btn-success">Home</a>
 		</div>
 	</body>
 </html>
